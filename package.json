@@ -7,7 +7,7 @@
   "component" : "mcq",
   "targetAttribute": "_mcq",
   "displayName" : "Multiple Choice Question",
-  "description": "A multiple choice question component",
+  "description": "Un componente de pregunta de opción múltiple",
   "main": "/js/adapt-contrib-mcq.js",
   "keywords": [
     "adapt-plugin",
